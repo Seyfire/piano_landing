@@ -1,2 +1,4 @@
 # piano_landing
-just a practice project on creating a landing page
+Just a practice project on creating a landing page.
+
+Piano is pretty cool btw.
