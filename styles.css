@@ -2,4 +2,19 @@ body {
     background-image: url("./assets/gebr.jpg");
     background-size: cover;
     background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+
+.header {
+    background-color: #7c7c7c;
+    height: 40px;
+    padding: 0 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
