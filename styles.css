@@ -1,3 +1,5 @@
 body {
-    display: flex;
+    background-image: url("./assets/gebr.jpg");
+    background-size: cover;
+    background-color: black;
 }
