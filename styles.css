@@ -29,16 +29,30 @@ body {
     flex-grow: 1;
 }
 
+#land-head {
+    margin: 0;
+    font-size: 48px;
+    font-weight: 800;
+    color: #F9FAF8;
+}
+
 .info {
+    background-color: rgb(43, 43, 43);
+    color: #F9FAF8;
     display: flex;
+    padding: 40px 0;
 }
 
 .navs {
     margin: 0 16px;
 }
 
-.header, .info, .blurbs, .flavor, .info2, .footer {
-    padding: 0 70px;
+/* .header, .info, .blurbs, .flavor, .info2, .footer {
+    padding: 0 120px;
+} */
+
+html, body {
+    height: 100%;
 }
 
 a {
