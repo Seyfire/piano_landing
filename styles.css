@@ -9,6 +9,10 @@ body {
     flex-direction: column;
 }
 
+.header, .info, .blurbs, .flavor, .info2, .footer {
+    padding: 0 120px;
+}
+
 .header {
     justify-content: space-between;
 }
@@ -40,16 +44,21 @@ body {
     background-color: rgb(43, 43, 43);
     color: #F9FAF8;
     display: flex;
-    padding: 40px 0;
+    padding: 60px 120px 60px 120px;
+}
+
+.info-pic {
+    height: 200px;
+    width: 800px;
+    margin-left: 60px;
+    background-color: #CF5C36;
+    background-image: url();
+
 }
 
 .navs {
     margin: 0 16px;
 }
-
-/* .header, .info, .blurbs, .flavor, .info2, .footer {
-    padding: 0 120px;
-} */
 
 html, body {
     height: 100%;
