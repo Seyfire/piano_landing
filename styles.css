@@ -43,7 +43,7 @@ body {
 
 .info {
     background-color: rgb(43, 43, 43);
-    color: #F9FAF8;
+    color: #969696;
     display: flex;
     padding: 60px 120px 60px 120px;
 }
@@ -88,6 +88,22 @@ body {
 
 .flavor {
     background-color: #7c7c7c;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: #1f2937;
+}
+
+.author {
+    font-size: 28px;
+    font-weight: 800;
+    padding-top: 40px;
+    text-align: end;
 }
 
 .navs {
