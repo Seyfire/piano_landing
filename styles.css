@@ -106,6 +106,13 @@ body {
     text-align: end;
 }
 
+.action-box {
+    background-color:#CF5C36;
+    display: flex;
+    margin: 40px 0px;
+    padding: 20px;
+}
+
 .navs {
     margin: 0 16px;
 }
